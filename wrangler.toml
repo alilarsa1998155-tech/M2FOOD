@@ -1,0 +1,3 @@
+[env.production]
+dir = "artifacts/restaurant-menu"
+build = { command = "npm run build", cwd = "artifacts/restaurant-menu" }
